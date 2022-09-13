@@ -10,6 +10,9 @@
     <script src="js/bootstrap.js"></script>
   </head>
   <body>
+
+
+
     <header>
       <nav class="navbar navbar-expand-md navbar-light bg-info">
         <div class="container-fluid">
@@ -27,7 +30,7 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav me-auto mb-2 mb-md-0">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="index.php">Home</a>
+                <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="libros.php">Libros</a>
